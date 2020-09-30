@@ -62,8 +62,8 @@ article.coach_bio h2 {
 aside blockquote {
   font-size: 0.95em;
   font-family: "Comic Sans MS", cursive;
-  color: rgb(222, 128, 60);
-  background-color: rgba(255, 255, 255, 0.75);
+  background-color: rgb(222, 128, 60);
+  color: rgba(255, 255, 255, 0.75);
   padding: 10px;
   quotes: "\201C""\201D";
 }
@@ -110,7 +110,7 @@ nav > ul > li > a:active {
 }
 /* Paragraph Styles */
 p {
-  margin: 10px, 30px, 10px, 0px;
+  margin: 10px 30px 10px 0px
 }
 
 /* List Styles */
