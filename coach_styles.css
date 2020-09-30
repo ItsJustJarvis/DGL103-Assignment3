@@ -40,6 +40,12 @@ body > footer {
    font: normal bold small-caps 0.9em/3em Nobile, Verdana, Geneva, sans-serif;
    text-align: center;
 }
+section#tss_coaches h1 {
+   font-size: 2.5em;
+   color: hsl(27, 82%, 85%);
+   background-color: hsl(27, 6%, 21%);
+   padding-left: 10px;
+}
 
 /* Heading Styles */
 h1 {
