@@ -2,7 +2,7 @@
 @font-face {
   font-family: Nobile;
   src: url("nobile-webfont.woff") format(woff);
-  src: url("nobile-webfont.ttf") format(truetype); 
+  src: url("nobile-webfont.ttf") format(truetype);
 }
 /*
    Name:   Reeve Jarvis
@@ -23,71 +23,50 @@
 
 */
 
-
 /* Main Structural Styles */
 html {
-   background-color: hsl(27, 72%, 72%);
+  background-color: hsl(27, 72%, 72%);
 }
 body {
-   color: rgb(91, 91, 91);
-   background-color: ivory;
-   font-family: Verdana, Geneva, sans-serif;
+  color: rgb(91, 91, 91);
+  background-color: ivory;
+  font-family: Verdana, Geneva, sans-serif;
 }
 body > footer {
-   background-color: rgb(222, 128, 60);
-   color: white;
-   color: rgba(255, 255, 255, 0.6);
-   font: normal bold small-caps 0.9em/3em Nobile, Verdana, Geneva, sans-serif;
-   text-align: center;
+  background-color: rgb(222, 128, 60);
+  color: white;
+  color: rgba(255, 255, 255, 0.6);
+  font: normal bold small-caps 0.9em/3em Nobile, Verdana, Geneva, sans-serif;
+  text-align: center;
 }
 section#tss_coaches h1 {
-   font-size: 2.5em;
-   color: hsl(27, 82%, 85%);
-   background-color: hsl(27, 6%, 21%);
-   padding-left: 10px;
+  font-size: 2.5em;
+  color: hsl(27, 82%, 85%);
+  background-color: hsl(27, 6%, 21%);
+  padding-left: 10px;
 }
 
 /* Heading Styles */
 h1 {
-   font: normal Nobile, Verdana, Geneva, sans-serif;
-   letter-spacing: 0.9em;
-   margin: 0px;
+  font: normal Nobile, Verdana, Geneva, sans-serif;
+  letter-spacing: 0.9em;
+  margin: 0px;
 }
-
+article.coach_bio h2 {
+   font:normal 1.6em;
+   color: rgb(240, 125, 0);
+}
 
 /* Blockquote Styles */
 
 
 
 
-/* Navigation Styles */	
-
-
-
+/* Navigation Styles */
 
 /* Paragraph Styles */
 
-
-
 /* List Styles */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*
 Notice for the Nobile Font
