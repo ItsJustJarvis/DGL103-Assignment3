@@ -1,3 +1,9 @@
+@charset "utf-8";
+@font-face {
+  font-family: Nobile;
+  src: url("nobile-webfont.woff") format(woff);
+  src: url("nobile-webfont.ttf") format(truetype); 
+}
 /*
    Name:   Reeve Jarvis
    Course: DGL-103
