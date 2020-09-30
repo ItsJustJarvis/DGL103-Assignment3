@@ -39,21 +39,22 @@ body > footer {
   font: normal bold small-caps 0.9em/3em Nobile, Verdana, Geneva, sans-serif;
   text-align: center;
 }
+/* Heading Styles */
+h1 {
+  font-weight: normal;
+  font-family: Nobile, Verdana, Geneva, sans-serif;
+  letter-spacing: 0.2em;
+  margin: 0px;
+}
 section#tss_coaches h1 {
   font-size: 2.5em;
   color: hsl(27, 82%, 85%);
   background-color: hsl(27, 6%, 21%);
   padding-left: 10px;
 }
-
-/* Heading Styles */
-h1 {
-  font: normal Nobile, Verdana, Geneva, sans-serif;
-  letter-spacing: 0.9em;
-  margin: 0px;
-}
 article.coach_bio h2 {
-  font: normal 1.6em;
+  font-weight: normal;
+  font-size: 1.6em;
   color: rgb(240, 125, 0);
 }
 
@@ -104,18 +105,18 @@ nav > ul > li > a:visited {
 }
 nav > ul > li > a:hover,
 nav > ul > li > a:active {
-   color: rgb(222, 128, 60);
-   text-decoration: underline;
+  color: rgb(222, 128, 60);
+  text-decoration: underline;
 }
 /* Paragraph Styles */
 p {
-   margin: 10px, 30px, 10px, 0px;
+  margin: 10px, 30px, 10px, 0px;
 }
 
 /* List Styles */
 article.coach_bio > header > ul {
-   list-style-image: url(check.png);
-   margin: 0px, 0px, 10px, 0px;
+  list-style-image: url(check.png);
+  margin: 0px, 0px, 10px, 0px;
 }
 /*
 Notice for the Nobile Font
