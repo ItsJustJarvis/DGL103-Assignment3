@@ -1,8 +1,8 @@
 @charset "utf-8";
 @font-face {
   font-family: Nobile;
-  src: url("nobile-webfont.woff") format(woff);
-  src: url("nobile-webfont.ttf") format(truetype);
+  src: url("nobile-webfont.woff") format('woff');
+  src: url("nobile-webfont.ttf") format('truetype');
 }
 /*
    Name:   Reeve Jarvis
@@ -116,7 +116,7 @@ p {
 /* List Styles */
 article.coach_bio > header > ul {
   list-style-image: url(check.png);
-  margin: 0px, 0px, 10px, 0px;
+  margin: 0px 0px 10px 0px;
 }
 /*
 Notice for the Nobile Font
