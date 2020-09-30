@@ -37,13 +37,16 @@ body > footer {
    background-color: rgb(222, 128, 60);
    color: white;
    color: rgba(255, 255, 255, 0.6);
-   font-style: normal bold small-caps 0.9em/3em Nobile, Verdana, Geneva, sans-serif;
+   font: normal bold small-caps 0.9em/3em Nobile, Verdana, Geneva, sans-serif;
    text-align: center;
-
 }
 
 /* Heading Styles */
-
+h1 {
+   font: normal Nobile, Verdana, Geneva, sans-serif;
+   letter-spacing: 0.9em;
+   margin: 0px;
+}
 
 
 /* Blockquote Styles */
